@@ -1,0 +1,9 @@
+{
+"firstName": "Automation",
+"lastName": "Demo",
+"emailAddress": "AutomationDemo",
+"password": "123456",
+"incorrectPassword": "65432",
+ "incorrectEmail": "automationdemo@gmail.com@.vn",
+ "notFoundEmail": "automationDEMO@mail.com"
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite  name="NopCommerce-User">
+<listeners>
+	<listener class-name="commons.MethodListener"/>
+	<listener class-name="reportConfig.ReportNGListener"/>
+	<listener class-name="org.uncommons.reportng.HTMLReporter"/> 
+	<listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+</listeners>
+
+
+  <test name="Run on Chrome ">
+	 <parameter name="browserName" value="chrome"/>
+	 <parameter name="environment" value="testing"/>
+    <classes>
+      <class name="nopCommerce.common.Register_New_User"/> 
+      <class name="nopCommerce.user.Register"/>
+      <class name="nopCommerce.user.Login"/>
+    </classes>
+  </test> 
+  
+</suite> 

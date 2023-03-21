@@ -1,0 +1,90 @@
+[2023-03-21 22:36:55,130] Pre-condition - Step 01: Navigate to Register page.
+[2023-03-21 22:36:56,485] Pre-condition - Step 02: Input to First Name textbox with value: 'Automation'
+[2023-03-21 22:36:56,723] Pre-condition - Step 03: Input to Last Name textbox with value: 'Demo'
+[2023-03-21 22:36:56,996] Pre-condition - Step 04: Input to Email Address textbox with value: 'AutomationDemo4496@mail.com'
+[2023-03-21 22:36:57,271] Pre-condition - Step 05: Input to Valid Password textbox with value: '123456' 
+[2023-03-21 22:36:57,503] Pre-condition - Step 06: Input to confirm Password textbox with value: '123456' 
+[2023-03-21 22:36:57,745] Pre-condition - Step 07: Click to Register button.
+[2023-03-21 22:36:59,337] Pre-condition - Step 08: Verify Register success message is displayed.
+[2023-03-21 22:36:59,422]  -------------------------- PASSED -------------------------- 
+[2023-03-21 22:36:59,423] Pre-condition - Step 09: Click to Logout link.
+[2023-03-21 22:37:00,054] OS name = window
+[2023-03-21 22:37:00,055] Driver instance name = chromedriver: chrome on windows (88c0bd31378b8c066419d98aad6b6470)
+[2023-03-21 22:37:04,369] Register_01 - Step 01: Navigate to Register page.
+[2023-03-21 22:37:05,698] Register_01 - Step 02: Click to Register button.
+[2023-03-21 22:37:05,921] Register_01 - Step 03: Verify Error message is displayed at First name textbox.
+[2023-03-21 22:37:06,005] Register_01 - Step 04: Verify Error message is displayed at Last name textbox.
+[2023-03-21 22:37:06,082] Register_01 - Step 05: Verify Error message is displayed at Email textbox.
+[2023-03-21 22:37:06,165] Register_01 - Step 06: Verify Error message is displayed at Password textbox.
+[2023-03-21 22:37:06,241] Register_01 - Step 07: Verify Error message is displayed at Confirm password textbox.
+[2023-03-21 22:37:06,322] Register_02 - Step 01: Navigate to Register page.
+[2023-03-21 22:37:06,859] Register_02 - Step 02: Input to First name textbox with value: 'Automation'
+[2023-03-21 22:37:07,081] Register_02 - Step 03 Input to Last name textbox with value: 'Demo'
+[2023-03-21 22:37:07,304] Register_02 - Step 04: Input to Email textbox with invalid value: 'automationdemo@gmail.com@.vn'
+[2023-03-21 22:37:07,568] Register_02 - Step 05: Input to Password textbox with value: '123456'
+[2023-03-21 22:37:07,777] Register_02 - Step 06: Input to Confirm password textbox with value: '123456'
+[2023-03-21 22:37:08,015] Register_02 - Step 07: Click to Register button.
+[2023-03-21 22:37:08,161] Register_02 - Step 08: Verify Error message is displayed.
+[2023-03-21 22:37:08,241] Register_03 - Step 01: Navigate to Register page.
+[2023-03-21 22:37:08,762] Register_03 - Step 02: Input to First name textbox with value: 'Automation'
+[2023-03-21 22:37:08,973] Register_03 - Step 03: Input to Last name textbox with value: 'Demo'
+[2023-03-21 22:37:09,189] Register_03 - Step 04: Input to Email address textbox with value: 'AutomationDemo9244@mail.com'
+[2023-03-21 22:37:09,446] Register_03 - Step 05: Input to Password textbox with value: '123456'
+[2023-03-21 22:37:09,641] Register_03 - Step 06: Input to Confirm password textbox with value: '123456'
+[2023-03-21 22:37:09,846] Register_03 - Step 07: Click to Register button.
+[2023-03-21 22:37:10,684] Register_03 - Step 08: Verify Success message is displayed.
+[2023-03-21 22:37:10,758] Register_03 - Step 09: Click to Logout link.
+[2023-03-21 22:37:11,342] Register_04 - Step 01: Navigate to Register page.
+[2023-03-21 22:37:11,877] Register_04 - Step 02: Input to First name textbox with value: 'Automation'
+[2023-03-21 22:37:12,091] Register_04 - Step 03: Input to Last name textbox with value: 'Demo'
+[2023-03-21 22:37:12,314] Register_04 - Step 04: Input to Email name textbox with value: 'AutomationDemo9244@mail.com'
+[2023-03-21 22:37:12,568] Register_04 - Step 05: Input to Password textbox with value: '123456'
+[2023-03-21 22:37:12,779] Register_04 - Step 06: Input to Confirm password textbox with value: '123456'
+[2023-03-21 22:37:12,991] Register_04 - Step 07: Click to Register button.
+[2023-03-21 22:37:13,551] Register_04 - Step 08: Verify Error message is displayed.
+[2023-03-21 22:37:13,647] Register_05 - Step 01: Navigate to Register page.
+[2023-03-21 22:37:14,153] Register_05 - Step 02: Input to First name textbox with value: 'Automation'
+[2023-03-21 22:37:14,373] Register_05 - Step 03: Input to Last name textbox with value: 'Demo'
+[2023-03-21 22:37:14,594] Register_05 - Step 04: Input to Email textbox with value: 'AutomationDemo9244@mail.com'
+[2023-03-21 22:37:14,855] Register_05 - Step 05: Input to Password textbox with value: '65432'
+[2023-03-21 22:37:15,057] Register_05 - Step 06: Input to Confirm password textbox with value: '65432'
+[2023-03-21 22:37:15,282] Register_05 - Step 07: Click to Register button.
+[2023-03-21 22:37:15,431] Register_05 - Step 08: Verify Error message is displayed.
+[2023-03-21 22:37:15,525] Register_05 - Step 01: Navigate to Register page.
+[2023-03-21 22:37:16,081] Register_05 - Step 02: Input to First name textbox with value: 'Automation'
+[2023-03-21 22:37:16,321] Register_05 - Step 03: Input to First name textbox with value: 'Demo'
+[2023-03-21 22:37:16,549] Register_05 - Step 04: Input to First name textbox with value: 'AutomationDemo9244@mail.com'
+[2023-03-21 22:37:16,805] Register_05 - Step 05: Input to First name textbox with value: '123456'
+[2023-03-21 22:37:17,013] Register_05 - Step 06: Input to First name textbox with value: '65432'
+[2023-03-21 22:37:17,233] Register_05 - Step 07: Click to Register button.
+[2023-03-21 22:37:17,357] Register_05 - Step 08: Verify Error message is displayed.
+[2023-03-21 22:37:17,448] OS name = window
+[2023-03-21 22:37:17,449] Driver instance name = chromedriver: chrome on windows (dea1afacbe3ce7e0fde643d4f68213bd)
+[2023-03-21 22:37:21,683] Login_01 - Step 01: Navigate to Login page.
+[2023-03-21 22:37:22,962] Login_01 - Step 02: Click to Login button.
+[2023-03-21 22:37:23,119] Login_01 - Step 03: Verify Error message is displayed.
+[2023-03-21 22:37:23,209] Login_02 - Step 01: Navigate to Login page.
+[2023-03-21 22:37:23,787] Login_02 - Step 02: Input to Email textbox with invalid email: ' automationdemo@gmail.com@.vn'
+[2023-03-21 22:37:24,076] Login_03 - Step 03: Click to Login button.
+[2023-03-21 22:37:24,234] Login_04 - Step 04: Verify Error message is displayed.
+[2023-03-21 22:37:24,319] Login_03 - Step 01: Navigate to Login page.
+[2023-03-21 22:37:24,863] Login_03 - Step 02: Input to Email textbox with invalid email: 'automationDEMO@mail.com'
+[2023-03-21 22:37:25,153] Login_03 - Step 03: Click to Login button.
+[2023-03-21 22:37:25,744] Login_03 - Step 04: Verify Error message is displayed.
+[2023-03-21 22:37:25,838] Login_04 - Step 01: Navigate to Login page.
+[2023-03-21 22:37:26,386] Login_04 - Step 02: Input to Email textbox with exsiting email: 'AutomationDemo4496@mail.com'
+[2023-03-21 22:37:26,645] Login_04 - Step 03: Input to Password textbox with empty.
+[2023-03-21 22:37:26,838] Login_04 - Step 04: Click to Login button.
+[2023-03-21 22:37:27,426] Login_04 - Step 05: Verify Error message is displayed.
+[2023-03-21 22:37:27,516] Login_05 - Step 01: Navigate to Login page.
+[2023-03-21 22:37:28,057] Login_05 - Step 02: Input to Email textbox with exsiting email: 'AutomationDemo4496@mail.com'
+[2023-03-21 22:37:28,313] Login_05 - Step 03: Input to Password textbox with incorrect password: '65432'
+[2023-03-21 22:37:28,515] Login_05 - Step 04: Click to Login button.
+[2023-03-21 22:37:29,128] Login_05 - Step 05: Verify Error message is displayed.
+[2023-03-21 22:37:29,217] Login_06 - Step 01: Navigate to Login page.
+[2023-03-21 22:37:29,733] Login_06 - Step 02: Input to Email textbox with exsiting email: 'AutomationDemo4496@mail.com'
+[2023-03-21 22:37:30,013] Login_06 - Step 03: Input to Password textbox with valid password: '123456'
+[2023-03-21 22:37:30,233] Login_06 - Step 04: Click to Login button.
+[2023-03-21 22:37:31,175] Login_06 - Step 05: Verify My Account Link is displayed.
+[2023-03-21 22:37:31,269] OS name = window
+[2023-03-21 22:37:31,270] Driver instance name = chromedriver: chrome on windows (c7add99b8dfd62909a9ac2611e304491)
